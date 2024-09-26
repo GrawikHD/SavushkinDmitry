@@ -1,5 +1,8 @@
-### IDEA
+### Property
+my.properties
+### Other folders
 .idea
+.allure
 
 ### Java template
 # Compiled class file

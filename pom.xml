@@ -11,6 +11,11 @@
     <modules>
         <module>homeWork_1</module>
         <module>homeWork_2</module>
+        <module>homeWork_3</module>
+        <module>calculator</module>
+        <module>restapiTest</module>
+        <module>seleniumAvito</module>
+        <module>allureSelenium</module>
     </modules>
 
     <properties>
